@@ -1,9 +1,13 @@
 # r20Exporter
 Export campaign from Roll20, to be imported into Foundry VTT using r20Importer.
 
-Chrome extension for exporting whole campaigns from Roll20.
+Installation:
+  - Copy to any folder
+  - Chrome: install as Unpacked Extension in chrome://extensions/
+  - Firefox: install as Temporary Extension in about:debugging#/runtime/this-firefox
 
-Install as temporary Unpacked Extension in chrome://extensions/
+Extension scripts will inject on loading a Roll20 game. Exporter window can be
+dragged by title bar, or minimised with double click.
 
 Options:
   - Export Images & Audio as .zip: 
