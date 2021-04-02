@@ -21,3 +21,5 @@ Options:
   - Export blobs
       Export bio, defaulttoken and GMNotes fields for tokens/characters. These all
       require GM access to read from server.
+
+NOTE: The images may take a long time to compress, 5+ minutes for large campaigns.
